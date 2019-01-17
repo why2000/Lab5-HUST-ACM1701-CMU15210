@@ -1,3 +1,5 @@
-# Finished
+# Lab5 - 同义词实验
 
-## No Report needed
+* Finished
+
+* Report not required
